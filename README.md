@@ -1,6 +1,7 @@
-# Hi there, I'm Salah Al-Batati 👋
+# Hi there, I'm Salah Al-Batati 👋  
 
-I'm a passionate **Smart Contract Programmer** with a keen interest in **contract security**. I enjoy building secure, efficient decentralized applications, and exploring the ever-evolving world of blockchain technology.
+I'm a passionate Smart Contract Programmer and an **Information Security student**, with a keen interest in **contract security**.  
+I enjoy building **secure**, **efficient** decentralized applications and exploring the ever-evolving world of **blockchain technology**.
 
 ## 🛠️ Tech Stack
 - **Languages:** Solidity, C++
