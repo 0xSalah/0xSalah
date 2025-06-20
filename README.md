@@ -8,7 +8,7 @@ I enjoy building **secure**, **efficient** decentralized applications and explor
 - **Blockchain:** Ethereum, EVM-compatible chains
 - **Tools:** Foundry, Remix
 - **Security:** Contract auditing
-- **OS:** Fedora Linux user
+- **OS:** Fedora Linux
 
 ## 🔒 Interests
 - Smart contract security & auditing
