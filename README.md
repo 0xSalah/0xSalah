@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Salah Al-Batati 👋
 
-<!--
-**0xSalah/0xSalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Smart Contract Programmer** with a keen interest in **contract security**. I enjoy building secure, efficient decentralized applications, and exploring the ever-evolving world of blockchain technology.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Solidity, C++
+- **Blockchain:** Ethereum, EVM-compatible chains
+- **Tools:** Foundry, Remix
+- **Security:** Contract auditing
+- **OS:** Fedora Linux user
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔒 Interests
+- Smart contract security & auditing
+- DeFi protocols and innovations
+- Blockchain scalability and privacy solutions
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/salah-al-batati-a98a17327)
+[![Twitter/X](https://img.shields.io/badge/X-%40vizks__-black?logo=twitter&style=flat-square)](https://x.com/vizks_)
+
+---
+
+> “Code is law, but secure code is justice.”
